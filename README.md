@@ -1,2 +1,5 @@
 # GOIDA BRATYA, GOIDA
-Used for SkibidiDrama-14
+*Fast, optimized, clean, simple*
+*For Developers...*
+
+**Used for SkibidiDrama-14**
